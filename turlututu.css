@@ -1,0 +1,119 @@
+html {
+box-sizing: border-box;
+}
+
+body{
+  margin:0px;
+}
+
+nav{
+  background-color: #333333;
+  width: 100%;
+  height: 50px;;
+}
+
+nav img{
+  height: 22px;
+  width: 150px;
+  float: left;
+}
+
+nav li {
+display: inline;
+float:right;
+margin-right: 119px;
+}
+
+nav a {
+display: inline-block;
+padding: 10px;
+text-decoration: none;
+color: white;
+font-size: 24px;
+font-family: 'courgette', cursive;
+}
+
+header{
+  background-color: #1E93CC;
+  width: 100%;
+  height: 298px;
+}
+
+img{
+  height: 223px;
+  margin-left: 40px;
+  margin-top: 20px;
+}
+.nuage{
+  float:right;
+  background-color: #1E93CC;
+  margin-right: 677px;
+  height: 298px;
+}
+.nuage img{
+  width: 441px;
+  height: 90px;
+  margin-right: 11px;
+}
+
+.nuage p{
+  color: white;
+  margin-left: 56px;
+  font-size: 24px;
+  margin-right: 32px;
+}
+
+#bouton{
+  background-color: #E99002;
+  width: 230px;
+  height: 61px;
+  border-radius: 5px;
+  margin-left: 152px;
+  border: solid 2px white;
+
+}
+
+#bouton a{
+    text-decoration: none;
+    color: white;
+    padding-left: 23px;
+}
+
+#first{
+  background-color: #FFFFFF;
+  width: 100%;
+  height: 70px;;
+}
+
+section{
+  background-color: #1E93CC;
+  width: 100%;
+  height: 298px;
+}
+
+#second{
+  background-color: #FFFFFF;
+  width: 100%;
+  height: 70px;
+
+}
+aside{
+  background-color: #EEEEEE;
+  width: 100%;
+  height: 240px;
+}
+
+#third{
+  background-color: #FFFFFF;
+  width: 100%;
+  height: 220px;
+}
+
+aldemaran
+
+
+footer{
+  background-color: #333333;
+  width: 100%;
+  height: 50px;
+}
