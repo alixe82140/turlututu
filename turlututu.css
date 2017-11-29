@@ -15,13 +15,13 @@ nav{
 nav img{
   height: 22px;
   width: 150px;
-  float: left;
+  /*float: left;*/
 }
 
 nav li {
-display: inline;
-float:right;
-margin-right: 119px;
+  display: inline;
+  float: left;
+
 }
 
 nav a {
@@ -29,8 +29,12 @@ display: inline-block;
 padding: 10px;
 text-decoration: none;
 color: white;
-font-size: 24px;
+font-size: 18px;
 font-family: 'courgette', cursive;
+}
+
+#menu{
+  width: 1818px;
 }
 
 header{
@@ -49,6 +53,7 @@ img{
   background-color: #1E93CC;
   margin-right: 677px;
   height: 298px;
+
 }
 .nuage img{
   width: 441px;
@@ -87,7 +92,7 @@ img{
 
 #first p{
   font-size: 24px;
-  margin-left: 648px;
+  margin-left: 517px;
   color: black;
 }
 
@@ -110,7 +115,8 @@ section{
   text-align: justify;
   width: 666px;
   height: 298px;
-  margin-right: 240px;
+  margin-right: 155px;
+
 }
 
 section h2, p{
@@ -126,7 +132,7 @@ section h2, p{
 #second p{
   color: #8E8498;
   font-size: 24px;
-  margin-left: 624px;
+  margin-left: 567px;
 }
 aside{
   background-color: #EEEEEE;
@@ -138,8 +144,7 @@ aside{
   background-color: #FFFFFF;
   width: 100%;
   height: 220px;
-  text-align: center;
-  display: inline;
+
 }
 
 #b1{
@@ -167,7 +172,7 @@ aside{
   float: right;
 }
 
-aldemaran
+aldebaran
 
 
 footer{
