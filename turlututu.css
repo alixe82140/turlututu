@@ -82,7 +82,13 @@ img{
 #first{
   background-color: #FFFFFF;
   width: 100%;
-  height: 70px;;
+  height: 57px;;
+}
+
+#first p{
+  font-size: 24px;
+  margin-left: 648px;
+  color: black;
 }
 
 section{
@@ -91,11 +97,36 @@ section{
   height: 298px;
 }
 
+#one{
+  float: left;
+  text-align: justify;
+  width: 666px;
+  height: 298px;
+  margin-left: 209px;
+}
+
+#two{
+  float: right;
+  text-align: justify;
+  width: 666px;
+  height: 298px;
+  margin-right: 240px;
+}
+
+section h2, p{
+  color:white;
+}
+
 #second{
   background-color: #FFFFFF;
   width: 100%;
-  height: 70px;
+  height: 57px;
+}
 
+#second p{
+  color: #8E8498;
+  font-size: 24px;
+  margin-left: 624px;
 }
 aside{
   background-color: #EEEEEE;
@@ -107,6 +138,33 @@ aside{
   background-color: #FFFFFF;
   width: 100%;
   height: 220px;
+  text-align: center;
+  display: inline;
+}
+
+#b1{
+  background-color: #165882;
+  width: 230px;
+  height: 61px;
+  border-radius: 5px;
+  border: solid 2px white;
+}
+
+#b2{
+  background-color:#165882;
+  width: 230px;
+  height: 61px;
+  border-radius: 5px;
+  border: solid 2px white;
+}
+
+#b3{
+  background-color: #E99002;
+  width: 230px;
+  height: 61px;
+  border-radius: 5px;
+  border: solid 2px white;
+  float: right;
 }
 
 aldemaran
